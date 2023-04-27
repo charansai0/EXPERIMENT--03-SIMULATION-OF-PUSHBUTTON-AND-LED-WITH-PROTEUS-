@@ -119,8 +119,8 @@ int main(void)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![Screenshot (52)](https://user-images.githubusercontent.com/94296221/234910468-527f7ffb-10c6-466c-9e46-f078a4a74ab2.png)
+ ![Screenshot (53)](https://user-images.githubusercontent.com/94296221/234914005-e57bef08-2eb7-46ba-a816-a577f105da9f.png)
+
 
  
 ## Result :
